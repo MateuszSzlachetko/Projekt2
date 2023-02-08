@@ -1,0 +1,148 @@
+N: 0 <- 3 [w:7] 
+N: 1 <- 4 [w:2] 
+N: 2 <- 4 [w:4]  <- 5 [w:6] 
+N: 3 <- 4 [w:3]  <- 0 [w:7] 
+N: 4 <- 2 [w:4]  <- 3 [w:3]  <- 1 [w:2] 
+N: 5 <- 2 [w:6] 
+
+Vertex   Distance       Path
+0 -> 0           0              0
+0 -> 1           12             0->3->4->1
+0 -> 2           14             0->3->4->2
+0 -> 3           7              0->3
+0 -> 4           10             0->3->4
+0 -> 5           20             0->3->4->2->5
+
+   0    0    0    7    0    0 
+   0    0    0    0    2    0 
+   0    0    0    0    4    6 
+   7    0    0    0    3    0 
+   0    2    4    3    0    0 
+   0    0    6    0    0    0 
+
+
+Macierz
+
+
+Ilość wierzchołków: 10 Gęstość: 25
+Czas 1.92 mikrosekund
+
+Ilość wierzchołków: 10 Gęstość: 50
+Czas 1.1 mikrosekund
+
+Ilość wierzchołków: 10 Gęstość: 75
+Czas 1 mikrosekund
+
+Ilość wierzchołków: 10 Gęstość: 100
+Czas 1.15 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 25
+Czas 27.5 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 50
+Czas 28.36 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 75
+Czas 26.5 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 100
+Czas 23.77 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 25
+Czas 98.94 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 50
+Czas 102.1 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 75
+Czas 90.81 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 100
+Czas 67.8 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 25
+Czas 2264.99 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 50
+Czas 2287.83 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 75
+Czas 2162.54 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 100
+Czas 1478.87 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 25
+Czas 8546.7 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 50
+Czas 8819.43 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 75
+Czas 8287.27 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 100
+Czas 5780.23 mikrosekund
+
+Lista
+
+
+Ilość wierzchołków: 10 Gęstość: 25
+Czas 0.92 mikrosekund
+
+Ilość wierzchołków: 10 Gęstość: 50
+Czas 1.05 mikrosekund
+
+Ilość wierzchołków: 10 Gęstość: 75
+Czas 1.1 mikrosekund
+
+Ilość wierzchołków: 10 Gęstość: 100
+Czas 1.17 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 25
+Czas 13.05 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 50
+Czas 18.99 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 75
+Czas 25.68 mikrosekund
+
+Ilość wierzchołków: 50 Gęstość: 100
+Czas 29.87 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 25
+Czas 41.53 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 50
+Czas 68.89 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 75
+Czas 99.76 mikrosekund
+
+Ilość wierzchołków: 100 Gęstość: 100
+Czas 134.43 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 25
+Czas 1177.65 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 50
+Czas 2377.83 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 75
+Czas 4672.54 mikrosekund
+
+Ilość wierzchołków: 500 Gęstość: 100
+Czas 8137.1 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 25
+Czas 10669.8 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 50
+Czas 38916.9 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 75
+Czas 63928.1 mikrosekund
+
+Ilość wierzchołków: 1000 Gęstość: 100
+Czas 48723.5 mikrosekund
